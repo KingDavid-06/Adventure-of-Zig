@@ -5,7 +5,7 @@ import os
 
 
 # This is for file (images specifically) importing (This line changes the directory to where the project is saved)
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(os.path.dirname(os.path.abspath(__file__))) 
 
 
 class AnimationPlayer:
