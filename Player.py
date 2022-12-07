@@ -4,6 +4,7 @@ from Settings import *
 from Entity import Entity
 import os, sys
 
+
 # This is for file importing but is in Main.py anyways
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
