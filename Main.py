@@ -7,7 +7,7 @@ import os
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
-# Creates a screen and calles some classes
+# Creates a screen and calles some classes 
 class Game:
     def __init__(self):
 
